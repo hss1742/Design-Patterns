@@ -1,0 +1,9 @@
+The Strategy Design Pattern uses composition 
+to eliminate code duplication from inheritance-based overriding. 
+Implement a DriveStrategy interface with concrete classes 
+(e.g., NormalDriveStrategy, SportsDriveStrategy), 
+inject them into Vehicle via constructor, and delegate Drive() calls. 
+Benefits include runtime strategy changes, 
+shared behaviors without duplication, 
+and adherence to the Open/Closed Principle for easy extension.
+

@@ -1,0 +1,5 @@
+-- issue here is code duplication
+-- During is-a relationship if 2 children have same functionality that is not implemented
+-- by base class, then we need to duplicate the logic in both classes which is not a good practice
+
+-- voilates the DRY Principle

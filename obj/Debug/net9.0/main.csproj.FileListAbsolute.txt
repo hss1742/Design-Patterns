@@ -1,0 +1,15 @@
+/Users/harjeet/Design-Patterns/bin/Debug/net9.0/main
+/Users/harjeet/Design-Patterns/bin/Debug/net9.0/main.deps.json
+/Users/harjeet/Design-Patterns/bin/Debug/net9.0/main.runtimeconfig.json
+/Users/harjeet/Design-Patterns/bin/Debug/net9.0/main.dll
+/Users/harjeet/Design-Patterns/bin/Debug/net9.0/main.pdb
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/main.AssemblyInfoInputs.cache
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/main.AssemblyInfo.cs
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/main.csproj.CoreCompileInputs.cache
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/main.sourcelink.json
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/main.dll
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/refint/main.dll
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/main.pdb
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/main.genruntimeconfig.cache
+/Users/harjeet/Design-Patterns/obj/Debug/net9.0/ref/main.dll
