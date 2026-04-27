@@ -1,0 +1,37 @@
+# Binaries and build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# NuGet packages
+packages/
+
+# Test results
+TestResults/
+
+# Coverage reports
+*.coverage
+*.coveragexml
+
+# Publish outputs
+publish/
